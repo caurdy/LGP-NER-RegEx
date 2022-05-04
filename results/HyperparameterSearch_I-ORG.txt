@@ -1,0 +1,392 @@
+------------------------- 
+Num Genes: 1 Gene Length: 2 
+ -------------------------
+Generation 0, Fitness: 921.00, Best Genome:  \w.\w.\w, Time Elapsed 1.08
+Generation 1, Fitness: 921.00, Best Genome:  \w.\w.\w, Time Elapsed 0.96
+Generation 2, Fitness: 921.00, Best Genome:  \w.\w.\w, Time Elapsed 1.36
+Generation 3, Fitness: 863.00, Best Genome:  \w[^P][^W][^ ]\w, Time Elapsed 2.56
+Generation 4, Fitness: 767.00, Best Genome:  \w[^P][^ ][^ ]\w, Time Elapsed 4.57
+Generation 5, Fitness: 767.00, Best Genome:  \w.\w[^ ]\w, Time Elapsed 7.34
+Generation 6, Fitness: 636.00, Best Genome:  \w+\w[^ ]\w, Time Elapsed 7.71
+Generation 7, Fitness: 636.00, Best Genome:  \w+[^ ][^ ]\w, Time Elapsed 6.86
+Generation 8, Fitness: 536.00, Best Genome: \w+\w[^ ]\w, Time Elapsed 6.67
+Generation 9, Fitness: 536.00, Best Genome: \w+\w[^ ]\w, Time Elapsed 6.86
+Generation 10, Fitness: 536.00, Best Genome: \w+\w[^ ]\w, Time Elapsed 6.97
+Generation 11, Fitness: 536.00, Best Genome: \w+[^ ][^ ]\w, Time Elapsed 6.87
+Generation 12, Fitness: 536.00, Best Genome: \w+[^ ][^ ]\w, Time Elapsed 6.55
+Generation 13, Fitness: 536.00, Best Genome: \w+[^ ][^ ]\w, Time Elapsed 7.62
+Generation 14, Fitness: 536.00, Best Genome: \w+[^ ][^ ]\w, Time Elapsed 6.94
+Generation 15, Fitness: 536.00, Best Genome: \w+[^ ][^ ]\w, Time Elapsed 6.38
+------------------------- 
+Num Genes: 1 Gene Length: 4 
+ -------------------------
+Generation 0, Fitness: 987.00, Best Genome: \w\w\w, Time Elapsed 0.85
+Generation 1, Fitness: 964.00, Best Genome: \w+, Time Elapsed 1.27
+Generation 2, Fitness: 945.00, Best Genome: a[\w].., Time Elapsed 3.38
+Generation 3, Fitness: 924.00, Best Genome: \w\w\w., Time Elapsed 4.58
+Generation 4, Fitness: 924.00, Best Genome: \w\w\w., Time Elapsed 4.80
+Generation 5, Fitness: 924.00, Best Genome: \w[\w]\w., Time Elapsed 3.92
+Generation 6, Fitness: 924.00, Best Genome: \w[\w]\w., Time Elapsed 3.94
+Generation 7, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 3.91
+Generation 8, Fitness: 809.00, Best Genome: \w[\w]\w\w, Time Elapsed 3.98
+Generation 9, Fitness: 809.00, Best Genome: \w[\w]\w\w, Time Elapsed 3.94
+Generation 10, Fitness: 809.00, Best Genome: \w[\w]\w\w, Time Elapsed 3.95
+Generation 11, Fitness: 809.00, Best Genome: \w[\w]\w\w, Time Elapsed 4.44
+Generation 12, Fitness: 809.00, Best Genome: \w[\w]\w\w, Time Elapsed 4.13
+Generation 13, Fitness: 809.00, Best Genome: \w[\w]\w\w, Time Elapsed 4.10
+------------------------- 
+Num Genes: 1 Gene Length: 6 
+ -------------------------
+Generation 0, Fitness: 904.00, Best Genome:  \w[^.]\w\w, Time Elapsed 0.98
+Generation 1, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 1.10
+Generation 2, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 2.87
+Generation 3, Fitness: 752.00, Best Genome: \w\w+\w, Time Elapsed 5.44
+Generation 4, Fitness: 752.00, Best Genome: \w\w+\w, Time Elapsed 4.79
+Generation 5, Fitness: 752.00, Best Genome: \w\w+\w, Time Elapsed 4.19
+Generation 6, Fitness: 752.00, Best Genome: \w\w+\w, Time Elapsed 4.68
+Generation 7, Fitness: 752.00, Best Genome: \w\w+\w, Time Elapsed 5.08
+Generation 8, Fitness: 752.00, Best Genome: \w\w+\w, Time Elapsed 4.98
+Generation 9, Fitness: 752.00, Best Genome: \w\w+\w, Time Elapsed 5.20
+------------------------- 
+Num Genes: 1 Gene Length: 8 
+ -------------------------
+Generation 0, Fitness: 987.00, Best Genome: \w\w\w, Time Elapsed 0.83
+Generation 1, Fitness: 877.00, Best Genome: [^ ]\w\w.., Time Elapsed 1.16
+Generation 2, Fitness: 877.00, Best Genome: [^ ]\w\w.., Time Elapsed 2.36
+Generation 3, Fitness: 877.00, Best Genome: [\w]\w\w.., Time Elapsed 3.15
+Generation 4, Fitness: 877.00, Best Genome: [\w]\w\w.., Time Elapsed 4.23
+Generation 5, Fitness: 877.00, Best Genome: [\w]\w\w.., Time Elapsed 4.81
+Generation 6, Fitness: 714.00, Best Genome: [\w]\w\w\w., Time Elapsed 4.78
+Generation 7, Fitness: 714.00, Best Genome: [\w]\w\w\w., Time Elapsed 4.66
+Generation 8, Fitness: 678.00, Best Genome: \w\w\w\w\w, Time Elapsed 4.92
+Generation 9, Fitness: 678.00, Best Genome: [\w]\w\w\w\w, Time Elapsed 4.71
+Generation 10, Fitness: 678.00, Best Genome: [\w]\w\w\w\w, Time Elapsed 4.74
+Generation 11, Fitness: 678.00, Best Genome: [\w]\w\w\w\w, Time Elapsed 4.95
+Generation 12, Fitness: 678.00, Best Genome: [\w]\w\w\w\w, Time Elapsed 5.79
+Generation 13, Fitness: 536.00, Best Genome: \w\w+\w\w, Time Elapsed 4.94
+Generation 14, Fitness: 536.00, Best Genome: [^ ]\w+\w\w, Time Elapsed 4.79
+Generation 15, Fitness: 536.00, Best Genome: [\w]\w+\w\w, Time Elapsed 5.11
+Generation 16, Fitness: 536.00, Best Genome: [\w]\w+\w\w, Time Elapsed 5.91
+Generation 17, Fitness: 536.00, Best Genome: [\w]\w+\w\w, Time Elapsed 6.09
+Generation 18, Fitness: 536.00, Best Genome: [\w]\w+\w\w, Time Elapsed 6.35
+Generation 19, Fitness: 536.00, Best Genome: [\w]\w+\w\w, Time Elapsed 6.34
+------------------------- 
+Num Genes: 1 Gene Length: 10 
+ -------------------------
+Generation 0, Fitness: 1075.00, Best Genome: i\w, Time Elapsed 0.75
+Generation 1, Fitness: 987.00, Best Genome: \w\w\w, Time Elapsed 0.92
+Generation 2, Fitness: 987.00, Best Genome: \w\w\w, Time Elapsed 1.66
+Generation 3, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 2.30
+Generation 4, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 2.93
+Generation 5, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 3.41
+Generation 6, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 3.80
+Generation 7, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 3.95
+Generation 8, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 4.09
+Generation 9, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 4.00
+------------------------- 
+Num Genes: 2 Gene Length: 2 
+ -------------------------
+Generation 0, Fitness: 924.00, Best Genome: \w\w\w., Time Elapsed 1.08
+Generation 1, Fitness: 924.00, Best Genome: \w\w\w., Time Elapsed 1.38
+Generation 2, Fitness: 877.00, Best Genome: [\w]\w\w.[^:], Time Elapsed 2.68
+Generation 3, Fitness: 877.00, Best Genome: [\w]\w\w.[^:], Time Elapsed 3.73
+Generation 4, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 4.12
+Generation 5, Fitness: 809.00, Best Genome: [\w]\w\w\w, Time Elapsed 4.52
+Generation 6, Fitness: 809.00, Best Genome: [\w]\w\w\w, Time Elapsed 4.64
+Generation 7, Fitness: 809.00, Best Genome: [\w]\w\w\w, Time Elapsed 4.56
+Generation 8, Fitness: 809.00, Best Genome: [\w]\w\w\w, Time Elapsed 4.20
+Generation 9, Fitness: 809.00, Best Genome: [\w][^ ]\w\w, Time Elapsed 3.99
+Generation 10, Fitness: 809.00, Best Genome: [\w][^ ]\w\w, Time Elapsed 4.83
+Generation 11, Fitness: 809.00, Best Genome: [\w][^ ]\w\w, Time Elapsed 4.15
+------------------------- 
+Num Genes: 2 Gene Length: 4 
+ -------------------------
+Generation 0, Fitness: 1051.00, Best Genome: \w.[^z], Time Elapsed 0.80
+Generation 1, Fitness: 1026.00, Best Genome: l\w[^z], Time Elapsed 1.28
+Generation 2, Fitness: 987.00, Best Genome: \w\w\w, Time Elapsed 2.41
+Generation 3, Fitness: 975.00, Best Genome: a\w[^z], Time Elapsed 2.98
+Generation 4, Fitness: 972.00, Best Genome: a\w\w, Time Elapsed 3.13
+Generation 5, Fitness: 946.00, Best Genome: a..[^z], Time Elapsed 2.87
+Generation 6, Fitness: 946.00, Best Genome: a..[^\d], Time Elapsed 2.88
+Generation 7, Fitness: 943.00, Best Genome: a..(.)?, Time Elapsed 2.84
+Generation 8, Fitness: 926.00, Best Genome: a..\w?, Time Elapsed 2.99
+Generation 9, Fitness: 914.00, Best Genome: a...\w?, Time Elapsed 3.47
+Generation 10, Fitness: 914.00, Best Genome: a...\w?, Time Elapsed 4.32
+Generation 11, Fitness: 914.00, Best Genome: a...\w?, Time Elapsed 4.01
+Generation 12, Fitness: 914.00, Best Genome: a...\w?, Time Elapsed 4.67
+Generation 13, Fitness: 914.00, Best Genome: a...\w?, Time Elapsed 5.90
+Generation 14, Fitness: 914.00, Best Genome: a...\w?, Time Elapsed 5.34
+------------------------- 
+Num Genes: 2 Gene Length: 6 
+ -------------------------
+Generation 0, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 0.79
+Generation 1, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 1.24
+Generation 2, Fitness: 809.00, Best Genome: \wQ*\w\w\w, Time Elapsed 2.62
+Generation 3, Fitness: 809.00, Best Genome: [^ ]\w\w\w, Time Elapsed 4.75
+Generation 4, Fitness: 809.00, Best Genome: [^ ]Q*\w\w\w, Time Elapsed 4.18
+Generation 5, Fitness: 809.00, Best Genome: [^ ]Q*\w\w\w, Time Elapsed 3.87
+Generation 6, Fitness: 809.00, Best Genome: [^ ]Q*\w\w\w, Time Elapsed 3.86
+Generation 7, Fitness: 809.00, Best Genome: [^ ]Q*\w\w\w, Time Elapsed 5.06
+------------------------- 
+Num Genes: 2 Gene Length: 8 
+ -------------------------
+Generation 0, Fitness: 995.00, Best Genome: .i\w\w, Time Elapsed 1.06
+Generation 1, Fitness: 926.00, Best Genome: [^C].a\w, Time Elapsed 2.44
+Generation 2, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 4.86
+Generation 3, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 6.69
+Generation 4, Fitness: 720.00, Best Genome: ..a\w*, Time Elapsed 6.91
+Generation 5, Fitness: 678.00, Best Genome: \w\w\w\w\w, Time Elapsed 5.12
+Generation 6, Fitness: 536.00, Best Genome: \w\w+\w\w, Time Elapsed 5.25
+Generation 7, Fitness: 536.00, Best Genome: \w\w+\w\w, Time Elapsed 5.10
+Generation 8, Fitness: 536.00, Best Genome: \w\w+\w\w, Time Elapsed 5.78
+Generation 9, Fitness: 536.00, Best Genome: \w\w+\w\w, Time Elapsed 5.96
+Generation 10, Fitness: 536.00, Best Genome: \w\w+\w\w, Time Elapsed 6.12
+Generation 11, Fitness: 536.00, Best Genome: \w\w+\w\w, Time Elapsed 5.87
+Generation 12, Fitness: 536.00, Best Genome: \w\w+\w\w, Time Elapsed 5.94
+------------------------- 
+Num Genes: 2 Gene Length: 10 
+ -------------------------
+Generation 0, Fitness: 1008.00, Best Genome: r\w., Time Elapsed 0.72
+Generation 1, Fitness: 1007.00, Best Genome: r\w\w, Time Elapsed 1.04
+Generation 2, Fitness: 987.00, Best Genome: \w\w\w, Time Elapsed 1.59
+Generation 3, Fitness: 877.00, Best Genome: \w\w\w.(.), Time Elapsed 2.45
+Generation 4, Fitness: 877.00, Best Genome: \w\w\w.(.), Time Elapsed 2.95
+Generation 5, Fitness: 877.00, Best Genome: \w\w\w.(.), Time Elapsed 3.51
+Generation 6, Fitness: 877.00, Best Genome: \w\w\w.(.), Time Elapsed 4.21
+Generation 7, Fitness: 877.00, Best Genome: \w\w\w.(.), Time Elapsed 4.66
+Generation 8, Fitness: 877.00, Best Genome: \w\w\w.(.), Time Elapsed 4.87
+Generation 9, Fitness: 714.00, Best Genome: \w\w\w\w(.), Time Elapsed 4.60
+Generation 10, Fitness: 714.00, Best Genome: \w\w\w\w(.), Time Elapsed 4.61
+Generation 11, Fitness: 714.00, Best Genome: \w\w\w\w(.), Time Elapsed 5.43
+Generation 12, Fitness: 714.00, Best Genome: \w\w\w\w(.), Time Elapsed 4.80
+Generation 13, Fitness: 714.00, Best Genome: \w\w\w\w(.), Time Elapsed 4.96
+Generation 14, Fitness: 714.00, Best Genome: \w\w\w\w(.), Time Elapsed 4.70
+Generation 15, Fitness: 714.00, Best Genome: \w\w\w\w(.), Time Elapsed 4.88
+------------------------- 
+Num Genes: 3 Gene Length: 2 
+ -------------------------
+Generation 0, Fitness: 1051.00, Best Genome: \w.. , Time Elapsed 0.80
+Generation 1, Fitness: 1047.00, Best Genome:  \w\w\w, Time Elapsed 0.98
+Generation 2, Fitness: 1028.00, Best Genome: \w..., Time Elapsed 1.89
+Generation 3, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 3.13
+Generation 4, Fitness: 809.00, Best Genome: \w[^ ]\w\w, Time Elapsed 4.60
+Generation 5, Fitness: 809.00, Best Genome: \w[^ ]\w\w, Time Elapsed 4.60
+Generation 6, Fitness: 752.00, Best Genome: \w+\w\w, Time Elapsed 4.70
+Generation 7, Fitness: 752.00, Best Genome: \w+\w\w, Time Elapsed 4.04
+Generation 8, Fitness: 752.00, Best Genome: \w+\w\w, Time Elapsed 4.20
+Generation 9, Fitness: 752.00, Best Genome: \w+\w\w, Time Elapsed 5.80
+Generation 10, Fitness: 752.00, Best Genome: \w+\w\w, Time Elapsed 5.97
+Generation 11, Fitness: 752.00, Best Genome: \w+\w\w, Time Elapsed 6.54
+Generation 12, Fitness: 752.00, Best Genome: \w+\w\w, Time Elapsed 5.86
+------------------------- 
+Num Genes: 3 Gene Length: 4 
+ -------------------------
+Generation 0, Fitness: 1042.00, Best Genome: e.\w, Time Elapsed 0.79
+Generation 1, Fitness: 1008.00, Best Genome: e.\w., Time Elapsed 1.09
+Generation 2, Fitness: 987.00, Best Genome: \w\w\w, Time Elapsed 2.10
+Generation 3, Fitness: 987.00, Best Genome: \w\w\w, Time Elapsed 2.96
+Generation 4, Fitness: 987.00, Best Genome: \w\w\w, Time Elapsed 3.27
+Generation 5, Fitness: 987.00, Best Genome: \w\w\w, Time Elapsed 4.34
+Generation 6, Fitness: 987.00, Best Genome: \w\w\w, Time Elapsed 4.96
+Generation 7, Fitness: 987.00, Best Genome: \w\w\w, Time Elapsed 5.42
+------------------------- 
+Num Genes: 3 Gene Length: 6 
+ -------------------------
+Generation 0, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 1.27
+Generation 1, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 2.21
+Generation 2, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 4.67
+Generation 3, Fitness: 809.00, Best Genome: \w[\w]\w\w, Time Elapsed 6.20
+Generation 4, Fitness: 809.00, Best Genome: \w[\w]\w\w, Time Elapsed 6.50
+Generation 5, Fitness: 809.00, Best Genome: \w[\w]\w\w, Time Elapsed 4.32
+Generation 6, Fitness: 809.00, Best Genome: \w[\w]\w\w, Time Elapsed 3.98
+Generation 7, Fitness: 809.00, Best Genome: \w[\w]\w\w, Time Elapsed 4.11
+------------------------- 
+Num Genes: 3 Gene Length: 8 
+ -------------------------
+Generation 0, Fitness: 1036.00, Best Genome: \w\wd.., Time Elapsed 0.75
+Generation 1, Fitness: 987.00, Best Genome: \w\w\w, Time Elapsed 1.06
+Generation 2, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 1.96
+Generation 3, Fitness: 809.00, Best Genome: \w[^ ]\w\w, Time Elapsed 3.06
+Generation 4, Fitness: 809.00, Best Genome: \w[^ ]\w\w, Time Elapsed 3.79
+Generation 5, Fitness: 809.00, Best Genome: \w[^ ]\w\w, Time Elapsed 4.93
+Generation 6, Fitness: 809.00, Best Genome: \w[^ ]\w\w, Time Elapsed 3.92
+Generation 7, Fitness: 809.00, Best Genome: \w[^ ]\w\w, Time Elapsed 4.10
+Generation 8, Fitness: 809.00, Best Genome: \w[^ ]\w\w, Time Elapsed 4.00
+------------------------- 
+Num Genes: 3 Gene Length: 10 
+ -------------------------
+Generation 0, Fitness: 973.00, Best Genome: .\w.i, Time Elapsed 0.71
+Generation 1, Fitness: 973.00, Best Genome: .\w.i, Time Elapsed 0.87
+Generation 2, Fitness: 904.00, Best Genome: [ ]..\w\w, Time Elapsed 1.70
+Generation 3, Fitness: 904.00, Best Genome:  ..\w\w, Time Elapsed 2.84
+Generation 4, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 3.18
+Generation 5, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 3.47
+Generation 6, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 3.85
+Generation 7, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 4.34
+Generation 8, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 4.45
+Generation 9, Fitness: 752.00, Best Genome: \w\w+\w, Time Elapsed 3.98
+Generation 10, Fitness: 752.00, Best Genome: \w\w+\w, Time Elapsed 4.03
+Generation 11, Fitness: 752.00, Best Genome: \w\w+\w, Time Elapsed 4.06
+Generation 12, Fitness: 752.00, Best Genome: \w\w+\w, Time Elapsed 4.62
+Generation 13, Fitness: 752.00, Best Genome: \w\w+\w, Time Elapsed 6.29
+Generation 14, Fitness: 752.00, Best Genome: \w\w+\w, Time Elapsed 5.44
+Generation 15, Fitness: 752.00, Best Genome: \w\w+\w, Time Elapsed 5.51
+------------------------- 
+Num Genes: 4 Gene Length: 2 
+ -------------------------
+Generation 0, Fitness: 877.00, Best Genome: \w\w\w.., Time Elapsed 0.71
+Generation 1, Fitness: 877.00, Best Genome: \w\w\w.., Time Elapsed 1.17
+Generation 2, Fitness: 714.00, Best Genome: \w\w\w\w., Time Elapsed 1.91
+Generation 3, Fitness: 714.00, Best Genome: \w\w\w\w., Time Elapsed 3.14
+Generation 4, Fitness: 714.00, Best Genome: \w\w\w\w., Time Elapsed 4.60
+Generation 5, Fitness: 714.00, Best Genome: \w\w\w\w., Time Elapsed 4.96
+Generation 6, Fitness: 678.00, Best Genome: \w\w\w\w\w, Time Elapsed 4.79
+Generation 7, Fitness: 678.00, Best Genome: \w\w\w\w\w, Time Elapsed 4.82
+Generation 8, Fitness: 678.00, Best Genome: \w\w\w\w\w, Time Elapsed 4.74
+Generation 9, Fitness: 678.00, Best Genome: \w\w\w\w\w, Time Elapsed 4.73
+Generation 10, Fitness: 678.00, Best Genome: \w\w\w\w\w, Time Elapsed 4.74
+Generation 11, Fitness: 678.00, Best Genome: \w\w\w\w\w, Time Elapsed 4.95
+Generation 12, Fitness: 678.00, Best Genome: \w\w\w\w\w, Time Elapsed 4.72
+------------------------- 
+Num Genes: 4 Gene Length: 4 
+ -------------------------
+Generation 0, Fitness: 994.00, Best Genome: (\w)(.a), Time Elapsed 1.14
+Generation 1, Fitness: 975.00, Best Genome: (.)[^d1]r., Time Elapsed 1.68
+Generation 2, Fitness: 961.00, Best Genome: .r\w[^.], Time Elapsed 2.07
+Generation 3, Fitness: 926.00, Best Genome: .(.a)[^.], Time Elapsed 2.79
+Generation 4, Fitness: 918.00, Best Genome: .\w(.a)[^.], Time Elapsed 3.07
+Generation 5, Fitness: 913.00, Best Genome: .\w(.a)., Time Elapsed 3.59
+Generation 6, Fitness: 913.00, Best Genome: .\w(.a)., Time Elapsed 3.93
+Generation 7, Fitness: 913.00, Best Genome: .\w(.a)., Time Elapsed 4.33
+Generation 8, Fitness: 913.00, Best Genome: .\w(.a)., Time Elapsed 4.41
+Generation 9, Fitness: 913.00, Best Genome: .\w(.a)., Time Elapsed 4.72
+Generation 10, Fitness: 913.00, Best Genome: .\w(.a)., Time Elapsed 4.37
+Generation 11, Fitness: 913.00, Best Genome: .\w(.a)., Time Elapsed 4.37
+------------------------- 
+Num Genes: 4 Gene Length: 6 
+ -------------------------
+Generation 0, Fitness: 974.00, Best Genome: \w.r\w, Time Elapsed 0.80
+Generation 1, Fitness: 963.00, Best Genome: a\w..\w, Time Elapsed 2.27
+Generation 2, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 3.16
+Generation 3, Fitness: 678.00, Best Genome: \w\w\w\w\w, Time Elapsed 4.83
+Generation 4, Fitness: 651.00, Best Genome: \w\w\w\w.., Time Elapsed 5.60
+Generation 5, Fitness: 536.00, Best Genome: \w\w\w*\w\w, Time Elapsed 5.11
+Generation 6, Fitness: 536.00, Best Genome: \w\w\w*\w\w, Time Elapsed 4.95
+Generation 7, Fitness: 536.00, Best Genome: \w\w\w*\w(\w), Time Elapsed 6.00
+Generation 8, Fitness: 536.00, Best Genome: \w\w\w*\w(\w), Time Elapsed 6.36
+Generation 9, Fitness: 536.00, Best Genome: \w\w\w*\w(\w), Time Elapsed 7.14
+Generation 10, Fitness: 536.00, Best Genome: \w\w\w*\w(\w), Time Elapsed 7.47
+Generation 11, Fitness: 536.00, Best Genome: \w\w\w*\w(\w), Time Elapsed 7.23
+------------------------- 
+Num Genes: 4 Gene Length: 8 
+ -------------------------
+Generation 0, Fitness: 1027.00, Best Genome: \w..\w, Time Elapsed 0.80
+Generation 1, Fitness: 904.00, Best Genome: .\w\w\w\w, Time Elapsed 1.08
+Generation 2, Fitness: 904.00, Best Genome: .\w\w\w\w, Time Elapsed 2.05
+Generation 3, Fitness: 678.00, Best Genome: [^ ]\w\w\w\w, Time Elapsed 3.02
+Generation 4, Fitness: 678.00, Best Genome: [^ ]\w[^ g]\w\w, Time Elapsed 4.01
+Generation 5, Fitness: 678.00, Best Genome: [^ ]\w[^ []\w\w, Time Elapsed 5.33
+Generation 6, Fitness: 678.00, Best Genome: [^ ]\w[^ []\w\w, Time Elapsed 4.86
+Generation 7, Fitness: 678.00, Best Genome: [^ ]\w[^ []\w\w, Time Elapsed 4.86
+Generation 8, Fitness: 678.00, Best Genome: [^ ]\w[^ []\w\w, Time Elapsed 4.83
+Generation 9, Fitness: 536.00, Best Genome: [^ ]+\w\w\w, Time Elapsed 5.10
+Generation 10, Fitness: 536.00, Best Genome: [^ ]+[^ []\w\w, Time Elapsed 4.72
+Generation 11, Fitness: 536.00, Best Genome: [^ ]+[^ []\w\w, Time Elapsed 4.97
+Generation 12, Fitness: 536.00, Best Genome: [^ ]+[^ []\w\w, Time Elapsed 5.50
+Generation 13, Fitness: 536.00, Best Genome: [^ ]+[^ []\w\w, Time Elapsed 6.52
+Generation 14, Fitness: 536.00, Best Genome: [^ ]+[^ []\w\w, Time Elapsed 6.19
+Generation 15, Fitness: 536.00, Best Genome: [^ ]+[^ []\w\w, Time Elapsed 6.39
+------------------------- 
+Num Genes: 4 Gene Length: 10 
+ -------------------------
+Generation 0, Fitness: 1051.00, Best Genome: \w(.)[^.], Time Elapsed 0.80
+Generation 1, Fitness: 1028.00, Best Genome: \w(.)\w., Time Elapsed 1.17
+Generation 2, Fitness: 924.00, Best Genome: \w\w\w., Time Elapsed 2.90
+Generation 3, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 3.53
+Generation 4, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 3.72
+Generation 5, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 4.08
+Generation 6, Fitness: 809.00, Best Genome: [^ ]\w\w\w, Time Elapsed 4.38
+Generation 7, Fitness: 809.00, Best Genome: [^ ]\w\w\w, Time Elapsed 4.28
+Generation 8, Fitness: 809.00, Best Genome: [^ ]\w\w\w, Time Elapsed 4.31
+Generation 9, Fitness: 752.00, Best Genome: \w+\w\w, Time Elapsed 4.09
+Generation 10, Fitness: 752.00, Best Genome: [^ ]+\w\w, Time Elapsed 4.16
+Generation 11, Fitness: 752.00, Best Genome: [^ ]+\w\w, Time Elapsed 4.34
+Generation 12, Fitness: 752.00, Best Genome: [^ ]+\w\w, Time Elapsed 4.57
+Generation 13, Fitness: 752.00, Best Genome: [^ ]+\w\w, Time Elapsed 5.65
+Generation 14, Fitness: 752.00, Best Genome: [^ ]+\w\w, Time Elapsed 5.54
+Generation 15, Fitness: 752.00, Best Genome: [^ ]+\w\w, Time Elapsed 5.64
+------------------------- 
+Num Genes: 5 Gene Length: 2 
+ -------------------------
+Generation 0, Fitness: 1003.00, Best Genome: l.\w\w, Time Elapsed 0.75
+Generation 1, Fitness: 889.00, Best Genome: .[6 ]..[^u].., Time Elapsed 1.38
+Generation 2, Fitness: 868.00, Best Genome: .\wa.\w, Time Elapsed 3.22
+Generation 3, Fitness: 867.00, Best Genome: .\wa\w., Time Elapsed 4.33
+Generation 4, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 3.56
+Generation 5, Fitness: 678.00, Best Genome: \w\w\w\w\w, Time Elapsed 4.33
+Generation 6, Fitness: 678.00, Best Genome: \w\w\w\w\w, Time Elapsed 4.44
+Generation 7, Fitness: 651.00, Best Genome: \w\w\w\w.., Time Elapsed 4.85
+Generation 8, Fitness: 651.00, Best Genome: \w\w\w\w.., Time Elapsed 5.16
+Generation 9, Fitness: 651.00, Best Genome: \w\w\w\w.., Time Elapsed 5.40
+Generation 10, Fitness: 651.00, Best Genome: \w\w\w\w.., Time Elapsed 5.54
+Generation 11, Fitness: 651.00, Best Genome: \w\w\w\w.., Time Elapsed 5.64
+Generation 12, Fitness: 651.00, Best Genome: \w\w\w\w.., Time Elapsed 5.55
+Generation 13, Fitness: 651.00, Best Genome: \w\w\w\w.., Time Elapsed 6.11
+------------------------- 
+Num Genes: 5 Gene Length: 4 
+ -------------------------
+Generation 0, Fitness: 999.00, Best Genome: (e)\w\w, Time Elapsed 0.85
+Generation 1, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 1.24
+Generation 2, Fitness: 809.00, Best Genome: \w[^ ]\w\w, Time Elapsed 2.12
+Generation 3, Fitness: 809.00, Best Genome: [^4 ][^ ]\w\w, Time Elapsed 3.09
+Generation 4, Fitness: 809.00, Best Genome: [^4 ][^ ]\w\w, Time Elapsed 3.57
+Generation 5, Fitness: 809.00, Best Genome: [^4 ][^ ]\w\w, Time Elapsed 3.87
+Generation 6, Fitness: 809.00, Best Genome: [^4 ][^ ]\w\w, Time Elapsed 4.81
+Generation 7, Fitness: 809.00, Best Genome: [^4 ][^ ]\w\w, Time Elapsed 3.89
+------------------------- 
+Num Genes: 5 Gene Length: 6 
+ -------------------------
+Generation 0, Fitness: 1103.00, Best Genome:  .(.), Time Elapsed 0.68
+Generation 1, Fitness: 1103.00, Best Genome:  .(.), Time Elapsed 0.89
+Generation 2, Fitness: 1054.00, Best Genome: n.\w[^=], Time Elapsed 1.41
+Generation 3, Fitness: 1047.00, Best Genome:  .(.)\w, Time Elapsed 2.11
+Generation 4, Fitness: 987.00, Best Genome: \w\w\w, Time Elapsed 2.59
+Generation 5, Fitness: 987.00, Best Genome: \w\w\w, Time Elapsed 3.53
+Generation 6, Fitness: 987.00, Best Genome: \w\w\w, Time Elapsed 3.78
+Generation 7, Fitness: 987.00, Best Genome: \w\w\w, Time Elapsed 3.48
+Generation 8, Fitness: 987.00, Best Genome: \w\w\w, Time Elapsed 3.10
+Generation 9, Fitness: 987.00, Best Genome: \w\w\w, Time Elapsed 3.42
+Generation 10, Fitness: 987.00, Best Genome: \w[^ ]\w, Time Elapsed 3.29
+------------------------- 
+Num Genes: 5 Gene Length: 8 
+ -------------------------
+Generation 0, Fitness: 924.00, Best Genome: \w\w\w., Time Elapsed 0.82
+Generation 1, Fitness: 924.00, Best Genome: \w\w\w., Time Elapsed 1.13
+Generation 2, Fitness: 924.00, Best Genome: \w\w\w., Time Elapsed 2.67
+Generation 3, Fitness: 924.00, Best Genome: \w[^ ]\w., Time Elapsed 3.50
+Generation 4, Fitness: 924.00, Best Genome: \w[^ ]\w., Time Elapsed 3.78
+Generation 5, Fitness: 809.00, Best Genome: \w\w\w\w, Time Elapsed 3.95
+Generation 6, Fitness: 809.00, Best Genome: \w\w[^ ]\w, Time Elapsed 4.13
+Generation 7, Fitness: 809.00, Best Genome: \w[^ ]\w\w, Time Elapsed 3.90
+Generation 8, Fitness: 809.00, Best Genome: \w[^ ][\w]\w, Time Elapsed 3.97
+Generation 9, Fitness: 809.00, Best Genome: \w[^ ][\w]\w, Time Elapsed 4.26
+Generation 10, Fitness: 809.00, Best Genome: \w[^ ][\w]\w, Time Elapsed 4.28
+Generation 11, Fitness: 809.00, Best Genome: \w[^ ][\w]\w, Time Elapsed 5.22
+------------------------- 
+Num Genes: 5 Gene Length: 10 
+ -------------------------
+Generation 0, Fitness: 1057.00, Best Genome: [^.]\w\w[^b]\w, Time Elapsed 1.04
+Generation 1, Fitness: 974.00, Best Genome:  \w\w[^b]\w, Time Elapsed 1.44
+Generation 2, Fitness: 879.00, Best Genome: [^. ]\w\w[^b][^.], Time Elapsed 1.48
+Generation 3, Fitness: 879.00, Best Genome: [^. ]\w\w[^b][^.], Time Elapsed 3.02
+Generation 4, Fitness: 678.00, Best Genome: \w\w[^ ]\w\w, Time Elapsed 5.70
+Generation 5, Fitness: 678.00, Best Genome: [^. ]\w[^ ]\w\w, Time Elapsed 4.74
+Generation 6, Fitness: 678.00, Best Genome: [^. ][^ ]\w\w\w, Time Elapsed 4.74
+Generation 7, Fitness: 678.00, Best Genome: [^ ]\w\w\w\w, Time Elapsed 5.40
+Generation 8, Fitness: 672.00, Best Genome: \w\w[^ ]\w[^ ], Time Elapsed 6.88
+Generation 9, Fitness: 672.00, Best Genome: [^. ]\w[^ ]\w[^ ], Time Elapsed 6.59
+Generation 10, Fitness: 672.00, Best Genome: [^. ]\w[^ ]\w[^ ], Time Elapsed 5.74
+Generation 11, Fitness: 672.00, Best Genome: [^ ]\w\w\w[^ ], Time Elapsed 4.84
+Generation 12, Fitness: 672.00, Best Genome: [^ ]\w[^ ]\w[^ ], Time Elapsed 4.82
+Generation 13, Fitness: 672.00, Best Genome: [^ ]\w[^ ]\w[^ ], Time Elapsed 4.76
+Generation 14, Fitness: 672.00, Best Genome: [^ ]\w[^ ]\w[^ ], Time Elapsed 4.83
