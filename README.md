@@ -12,9 +12,7 @@ Shown in the noteboooks
 Explains theory behind this idea and the takeaways from the project
 
 
-# **Evolution of Regular Expressions**
-
-# **for Named Entity Recognition**
+# **Evolution of Regular Expressions** **for Named Entity Recognition**
 
 Jacob Caurdy
 
